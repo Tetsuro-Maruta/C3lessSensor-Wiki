@@ -61,6 +61,6 @@ CUIをご利用の方は、USBメモリを手動でマウントする必要が�
     less /media/pi/*/data.csv
     ```
 
-データが確認できない場合は、[トラブルシューティング|troubleshooting](../troubleshooting/troubleshooting.md)をご覧ください
+データが確認できない場合は、[トラブルシューティング](../troubleshooting/troubleshooting.md)をご覧ください
 
 [^1]: 初期設定
