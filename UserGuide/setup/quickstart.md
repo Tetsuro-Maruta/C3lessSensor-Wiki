@@ -4,22 +4,29 @@
 
 本ページでは、本プログラムを動作させるために最低限必要な手順を紹介します。
 ここでは、Raspberry Pi上でUSBメモリにデータを保存する方法[^1]を紹介します。
-
 ## 設定
 
-### MONOSTICKの設定
+### 受信機の設定
 
-インタラクティブモードでMONOSTICKの値を次のように設定します。
+インタラクティブモードで受信機プログラムを書き込んだTweliteの値を、次のように設定します。
 
 |設定項目|値|
 | - | - |
 |ApplicationID|子機側と同じ値|
 |Optionbit|0x00000020|
 
-設定項目の詳細は、[MONOWIRELESSのホームページ](https://mono-wireless.com/jp/products/TWE-APPS/App_Tag/interactive.html)をご覧ください。
+設定項目の詳細は、[MONOWIRELESSのホームページ](https://mono-wireless.com/jp/products/TWE-APPS/App_Tag/interactive.html#parent)をご覧ください。
 
-### Raspberry PIの設定
+設定が終わった
 
+## USBメモリの設定
+
+初期設定では、本プログラムはセンサから得たデータを、USBメモリ(/media/pi/*)に保存する構成となっています。
+CUIをご利用の方は、USBメモリを手動でマウントする必要があります。
+
+## Raspberry PIの設定
+
+セットアップが完了した受信機と、
 1. まず、gitをインストールします。
 
     ```sh
