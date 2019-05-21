@@ -2,6 +2,7 @@
 ## はじめに
 本プログラムが動作しないときは、以下の事項を確認してください。
 
+- [センサを確認する](checkSensor.md)
 - [ハードウェアを確認する](checkHardware.md)
 - [ソフトウェアを確認する](checkSoftware.md)
 
