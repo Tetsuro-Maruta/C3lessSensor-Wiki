@@ -15,22 +15,4 @@ LEDが光ってる際は、次の[ハードウェアを確認する]を参照し
 
 動作電流や計測電流以上の電流が流れていない箇所を計測する際は、ケーブルの巻数を増やすことで、電流値を巻き数倍にすることが可能です。
 
-### 例：
-以下の写真は低電力用クランプセンサで単線をクランプした際のものです。
-
-<div align="center">
-<img src="../../images/userguide-troubleshooting-checksensor-1.jpg" width="50%">
-</div>
-
-以下のように、線を1回巻き、2本分の線をクランプすることで、電線に流れている電流の2倍の値を得ることができます。
-
-<div align="center">
-<img src="../../images/userguide-troubleshooting-checksensor-2.jpg" width="50%">
-</div>
-
-また、巻き数を増やし、クランプする線の本数を増やすことで、定数倍の値を得ることができます。例えば、以下の画像では、5本の線をクランプしているため、センサは電線に流れている電流値の5倍の電流値を得ています。
-
-<div align="center">
-<img src="../../images/userguide-troubleshooting-checksensor-3.jpg" width="50%">
-</div>
-
+詳しくは、[クイックスタートガイドのクランプ式センサの設置方法](../setup/quickstart.md#クランプ式センサの設置方法)を御覧ください
