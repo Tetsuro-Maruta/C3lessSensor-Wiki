@@ -24,6 +24,41 @@
 
 ### クランプ式センサの設置方法
 
+センサを設置後、送信機のLEDが以下のように光ることを確認してください。LEDが光らない場合、データの送信に必要な電力が足りていない可能性があります。
+
+
+
+#### 良い例
+以下の写真は低電力用クランプセンサで単相2線式電線のうちの一本をクランプした際のものです。
+
+<div align="center">
+<img src="../../images/userguide-troubleshooting-checksensor-1.jpg" width="50%">
+</div>
+
+以下の写真は、中電力用クランプセンサで単相3線式電線のうちの一本をクランプした際のものです。
+
+### 悪い例
+
+
+
+
+#### 悪い例
+
+
+
+以下のように、線を1回巻き、2本分の線をクランプすることで、電線に流れている電流の2倍の値を得ることができます。
+
+<div align="center">
+<img src="../../images/userguide-troubleshooting-checksensor-2.jpg" width="50%">
+</div>
+
+また、巻き数を増やし、クランプする線の本数を増やすことで、定数倍の値を得ることができます。例えば、以下の画像では、5本の線をクランプしているため、センサは電線に流れている電流値の5倍の電流値を得ています。
+
+<div align="center">
+<img src="../../images/userguide-troubleshooting-checksensor-3.jpg" width="50%">
+</div>
+
+
 
 ### 貫通式センサの設置方法
 
