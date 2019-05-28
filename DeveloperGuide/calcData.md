@@ -6,11 +6,9 @@
 
 センサの値は、以下の計算式で求めることができます。
 
-
+<img src="https://latex.codecogs.com/gif.latex?I&space;=&space;KV+C"/>
 
 ここで、それぞれの記号は以下の値を意味します。
-
-$$ \begin{eqnarray} I &=& KV+C \end{eqnarray} $$
 
 I:電流[A]
 
