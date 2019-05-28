@@ -10,11 +10,7 @@
 
 ここで、それぞれの記号は以下の値を意味します。
 
-$$
-\begin{eqnarray}
-I &=& KV+C
-\end{eqnarray}
-$$
+$$ \begin{eqnarray} I &=& KV+C \end{eqnarray} $$
 
 I:電流[A]
 
