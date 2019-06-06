@@ -36,12 +36,23 @@ Items:
 - ClampCurrentSensor2-100A
   - 中電流用クランプ式電流センサ
 
+<div align="center">
+<img src="../../images/userguide-setup-registersensor-Clamp2-100.jpg" width="40%">
+</div>
 
 - ClampCurrentSensor0.6-20A
   - 小電流用クランプ式電流センサ
 
+<div align="center">
+<img src="../../images/userguide-setup-registersensor-Transfixed.jpg" width="40%" >
+</div>
+
 - TransfixedCurrentSensor0.06-20A
   - 小電流用貫通式電流センサ
+
+<div align="center">
+<img src="../../images/userguide-troubleshooting-checksensor-2.jpg" width="50%">
+</div>
 
 - TCTemperatureSensor
   - 熱電対センサ
