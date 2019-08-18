@@ -4,8 +4,8 @@
 
 ## ユーザーガイド
 - [ユーザーガイド　目次](./UserGuide/UserGuide.md)
-  - [クイックスタートガイド|quickstart](./UserGuide/setup/quickStart.md)
-  - [本プログラムがうまく動作しないときは](./UserGuide/troubleShooting/troubleShooting.md)
+  - [クイックスタートガイド](./UserGuide/setup/quickstart.md)
+  - [本プログラムがうまく動作しないときは](./UserGuide/troubleShooting/troubleshooting.md)
     - [ハードウェアを確認する](./UserGuide/troubleShooting/checkHardware.md)
     - [ソフトウェアを確認する](./UserGuide/troubleShooting/checkSoftware.md)
 
