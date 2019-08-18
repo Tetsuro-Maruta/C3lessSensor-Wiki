@@ -2,4 +2,4 @@
 本ファイルは、センサのシリアル番号と、センサの種類を登録します。
 
 - [クイックスターター](quickstart.md)
-- [センサの命名法](sensor-name.md)
+- [センサの登録方法](register-sensor.md)
