@@ -1,5 +1,6 @@
 # Raspberry Piの設定
 
+
 ## 電源の接続
 
 下のRaspberryPiの電源ポートに付属のUSB-typeBケーブルを挿し、コンセントに接続すればRaspberry Piは起動します。
@@ -23,7 +24,6 @@
 ### 無線接続を行う場合
 
 本体側面にあるHDMIポートにケーブルを、USBポートにマウスとキーボードを接続し、ディスプレイを接続してください。なお、Bluetoothが使えるため、マウスとキーボードは無線のものを使うことができます。
-
 
 <div align="center">
 <img src="../../../images/RaspberryPi-HDMI.png" width="50%">
