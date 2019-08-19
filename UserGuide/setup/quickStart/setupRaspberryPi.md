@@ -1,5 +1,13 @@
 # Raspberry Piの設定
 
+## 電源の接続
+
+下のRaspberryPiの電源ポートに付属のUSB-typeBケーブルを挿し、コンセントに接続すればRaspberry Piは起動します。
+
+<div align="center">
+<img src="../../../images/RaspberryPiPowerSupply.png" width="50%">
+</div>
+
 ## インターネット接続
 
 センサのデータをクラウドに送信する際は、インターネット接続を行う必要があります。
@@ -8,9 +16,18 @@
 
 本体側面にあるLANポートにネットワークケーブルを差し込んでください。
 
+<div align="center">
+<img src="../../../images/RaspberryPi-Lan.png" width="50%">
+</div>
+
 ### 無線接続を行う場合
 
 本体側面にあるHDMIポートにケーブルを、USBポートにマウスとキーボードを接続し、ディスプレイを接続してください。なお、Bluetoothが使えるため、マウスとキーボードは無線のものを使うことができます。
+
+
+<div align="center">
+<img src="../../../images/RaspberryPi-HDMI.png" width="50%">
+</div>
 
 その後、電源を入れます。<u>電源ケーブルを接続する前にHDMIケーブルの接続を行わないと、ディスプレイには何も表示されないので注意してください。</u>
 
