@@ -5,16 +5,17 @@
 ## 貫通型小電力用センサ
 
 <div align="center">
-<img src="../images/description-lineup-sensor1.JPEG" width="50%">
+<img src="../images/description-lineup-sensor1.JPG" width="30%">
 </div>
 
 ## クランプ型小電力用センサ
 
 
+
 ## クランプ型中電力用センサ
 
 <div align="center">
-<img src="../images/description-lineup-sensor3.JPEG" width="50%">
+<img src="../images/description-lineup-sensor3.JPG" width="30%">
 </div>
 
 
